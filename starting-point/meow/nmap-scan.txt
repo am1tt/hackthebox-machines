@@ -1,0 +1,7 @@
+ nmap -sC -sV -Pn -n -T4 10.129.X.X
+
+ nmap -p-- (for all the ports)
+
+ nmap -f [add] (for fast 100 ports)
+
+ 
