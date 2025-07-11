@@ -1,7 +1,6 @@
-```
 ## 🦌 HTB Starting Point: Fawn  
 **Level**: Easy  
-**Date**: July 10, 2025  
+**Date**: July 11, 2025  
 **Goal**: Identify and exploit an anonymous FTP service to retrieve the user flag.
 
 ---
