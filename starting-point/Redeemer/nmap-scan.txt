@@ -1,0 +1,13 @@
+
+
+## scanning all ports in faster 
+
+ nmap -sS -p- --min-rate 1000 -T4 -n -v 10.129.252.152
+
+ -----
+
+-n for skipping DNS resolutions 
+-v for verbose output
+-- min-rate for number of packets to send per seconds 
+-T4 timing based aggresive scan 
+
