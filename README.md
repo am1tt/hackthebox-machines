@@ -24,6 +24,8 @@
 | Meow          | Beginner   | ✅ Pwned | Nmap, Telnet               |
 | Fawn           | Beginner        | ✅ Pwned      | Nmap, FTP       |
 | Dancing           | Beginner        | ✅ Pwned      | Nmap, SMB    |
+| Redeemer           | Beginner        | ✅ Pwned      | Nmap, redis    |
+
 
 
 ---
