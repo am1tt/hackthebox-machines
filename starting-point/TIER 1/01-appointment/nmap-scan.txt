@@ -1,0 +1,8 @@
+
+nmap -sS -sV -p 80 <ip address>
+
+-sS for stealth scan and skipping resolutions 
+
+-sV for the service version it asked 
+
+and the -p for the port 80 mentioned along with trget ip 
