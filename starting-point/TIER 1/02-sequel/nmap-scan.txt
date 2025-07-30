@@ -1,0 +1,6 @@
+
+
+nmap -F <ip address> 
+
+-F flag for very fast scan 
+
