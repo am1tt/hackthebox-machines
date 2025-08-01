@@ -1,6 +1,6 @@
 ## 🐊 HTB Starting Point: Crocodile  
 **Level**: Very Easy  
-**Date**: July 31, 2025  
+**Date**: July 1, 2025  
 **Goal**: Retrieve credentials from an open FTP server and use them to log into a web portal to get the flag.
 
 ---
