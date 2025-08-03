@@ -25,6 +25,7 @@
 | Fawn           | Beginner        | ✅ Pwned      | Nmap, FTP       |
 | Dancing           | Beginner        | ✅ Pwned      | Nmap, SMB    |
 | Redeemer           | Beginner        | ✅ Pwned      | Nmap, redis    |
+| Crocodile           | Beginner        | ✅ Pwned      | Nmap, SQL    |
 
 
 
