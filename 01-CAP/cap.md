@@ -1,4 +1,3 @@
-```bash
 ## 🐚 CAP
 **Level**: easy  
 **Date**: August 5, 2025  
@@ -13,7 +12,6 @@
 - `wireshark`  
 - `linpeas.sh`  
 - Linux post-exploitation enumeration techniques  
-
 ---
 
 ### 🧭 Steps  
